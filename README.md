@@ -11,3 +11,5 @@ use at your own risk, if you leave the decrypted passwords terminal window open 
 -platforms are saved with the password
 
 -rulesets for certain character sets are in progress
+
+-run Main using an IDE with admin privileges, or change variable ROOT_DRIVE_LETTER in file PasswordWriter.java
