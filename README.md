@@ -13,3 +13,5 @@ use at your own risk, if you leave the decrypted passwords terminal window open 
 -rulesets for certain character sets are in progress
 
 -run Main using an IDE with admin privileges, or change variable ROOT_DRIVE_LETTER in file PasswordWriter.java
+
+-project was created using IntelliJ; the contents of this repo can be put in a folder and opened as a project in IntelliJ
