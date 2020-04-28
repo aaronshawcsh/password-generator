@@ -6,12 +6,10 @@ use at your own risk, if you leave the decrypted passwords terminal window open 
 
 -passwords are at a minimum 9 characters long
 
--files have been arranged the way they have for easier management, not following object-oriented principle of low coupling for multiple reasons
-
 -platforms are saved with the password
 
 -rulesets for certain character sets are in progress
 
--run Main using an IDE with admin privileges, or change variable ROOT_DRIVE_LETTER in file PasswordWriter.java
+-run PasswordGenerator using an IDE with admin privileges, or change variable ROOT_DRIVE_LETTER in file /src/PasswordGenerator.java
 
 -project was created using IntelliJ; the contents of this repo can be put in a folder and opened as a project in IntelliJ
