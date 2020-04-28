@@ -1,7 +1,8 @@
 import java.io.*;
+import javax.swing.*;
 import java.util.Scanner;
 
-public class PasswordGenerator {
+public class PasswordGenerator extends JFrame {
     public static void main(String[] args) {
         //testing section
         /**/
@@ -9,7 +10,8 @@ public class PasswordGenerator {
         /**/
 
         //running section
-        /**/
+        runInterface();
+        /*
         Scanner sc = new Scanner(System.in);
         System.out.println("Welcome to the password generator\n");
         prompt();
@@ -37,7 +39,11 @@ public class PasswordGenerator {
             }
             prompt();
         }
-        /**/
+        */
+    }
+
+    private static void runInterface() {
+        
     }
 
     private static void prompt() {
