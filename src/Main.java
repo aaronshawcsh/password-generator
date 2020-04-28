@@ -46,7 +46,7 @@ public class Main {
         for(int i = 'a'; i < 'z'; i++) {
             validCharacterSet[indexMarker++] = (char) i;
         }
-        for(int i = 0; i < 10; i++) {
+        for(int i = 48; i < 58; i++) {
             validCharacterSet[indexMarker++] = (char) i;
         }
         for(int i = 0; i < specialCharacterSet.length; i++) {
